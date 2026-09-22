@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+.env
+node_modules/
+dist/
+.DS_Store
+experiments/results/*.json
+experiments/results/*.csv
+!experiments/results/.gitkeep
+.pytest_cache/
